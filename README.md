@@ -26,8 +26,8 @@
 - все буквы в фамилии и имени из верхнего регистра переведите в нижний регистр,
 - замените буквы 'll' в именах на 'pp'.
 
-![](https://github.com/konstanin-zubenko/DDL-DML/blob/main/img/403.png)
+![](https://github.com/konstanin-zubenko/SQL1/blob/main/img/403.png).
 
 
- [скрипт](https://github.com/konstanin-zubenko/DDL-DML/blob/main/Script-2.sql)
+ [скрипт](https://github.com/konstanin-zubenko/SQL1/blob/main/Script-2.sql)
 
