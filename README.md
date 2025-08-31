@@ -29,5 +29,5 @@
 ![](https://github.com/konstanin-zubenko/DDL-DML/blob/main/img/403.png)
 
 
-
+ [скрипт](https://github.com/konstanin-zubenko/DDL-DML/blob/main/Script-2.sql)
 
